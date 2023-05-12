@@ -9,12 +9,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-:root {
-  --main-1y-color: #237C33;
-  --main-2k-color: #1AB3B6;
-  --main-3s-color: #C7D34B;
-  
-}
+
 
 
 body {
@@ -2264,4 +2259,11 @@ section {
   text-align: center;
   margin-top: 0px; 
   padding-top: 0px;
+}
+
+:root {
+  --main-1y-color: #237C33;
+  --main-2k-color: #1AB3B6;
+  --main-3s-color: #C7D34B;
+  
 }

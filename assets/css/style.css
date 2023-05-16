@@ -2267,3 +2267,11 @@ section {
   --main-3s-color: #C7D34B;
   
 }
+.tuzilma { 
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  padding: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}

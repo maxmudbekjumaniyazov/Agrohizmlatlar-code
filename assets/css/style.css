@@ -2279,3 +2279,16 @@ section {
   padding: 0px;
   margin: 0px;
 }
+.foydali_icons { 
+  width: 3rem;
+  height: 3rem;
+ 
+
+}
+.icon-boxses { 
+  display: flex;
+}
+.icon-boxses-h3 { 
+  margin-left: 10rem;
+  margin-top: 1rem;
+}

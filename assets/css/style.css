@@ -2289,6 +2289,17 @@ section {
   display: flex;
 }
 .icon-boxses-h3 { 
-  margin-left: 10rem;
+  margin-left: 23rem;
   margin-top: 1rem;
 }
+@media only screen and (max-width: 700px) { 
+  .icon-boxses-h3 {
+  margin-left: 15rem;
+  margin-top: 1rem;
+}
+}
+@media only screen and (max-width: 1000px) { 
+  .icon-boxses-h3 {
+  margin-left: 5rem;
+  margin-top: 1rem;
+}}

@@ -2297,3 +2297,16 @@ section {
 .Foydali-havolalar-h3 { 
   color: var(--text-color);
 }
+
+@media (min-width: 992px){}
+.box-talim  {
+    flex: 0 0 auto;
+    width: 150% !important;
+  }
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
